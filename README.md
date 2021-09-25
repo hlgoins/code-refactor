@@ -1,7 +1,7 @@
 # Horiseon
 
 ## Purpose
-A website
+A website focusing on Search Engine Optimization.
 
 ## Built with
 * HTML
